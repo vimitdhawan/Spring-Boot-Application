@@ -7,6 +7,8 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
+
+// this is course class
 @Entity
 public class Course {
 	@Id
